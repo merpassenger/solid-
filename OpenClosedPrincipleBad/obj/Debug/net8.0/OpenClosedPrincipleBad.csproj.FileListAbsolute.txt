@@ -1,0 +1,14 @@
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/bin/Debug/net8.0/OpenClosedPrincipleBad
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/bin/Debug/net8.0/OpenClosedPrincipleBad.deps.json
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/bin/Debug/net8.0/OpenClosedPrincipleBad.runtimeconfig.json
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/bin/Debug/net8.0/OpenClosedPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/bin/Debug/net8.0/OpenClosedPrincipleBad.pdb
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/refint/OpenClosedPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.pdb
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/OpenClosedPrincipleBad.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/SOLID/OpenClosedPrincipleBad/obj/Debug/net8.0/ref/OpenClosedPrincipleBad.dll
