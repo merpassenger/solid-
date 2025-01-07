@@ -1,0 +1,15 @@
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/bin/Debug/net8.0/LiskovSubstitutionPrincipleGood
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/bin/Debug/net8.0/LiskovSubstitutionPrincipleGood.deps.json
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/bin/Debug/net8.0/LiskovSubstitutionPrincipleGood.runtimeconfig.json
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/bin/Debug/net8.0/LiskovSubstitutionPrincipleGood.dll
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/bin/Debug/net8.0/LiskovSubstitutionPrincipleGood.pdb
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.sourcelink.json
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.dll
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/refint/LiskovSubstitutionPrincipleGood.dll
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.pdb
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/LiskovSubstitutionPrincipleGood.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleGood/obj/Debug/net8.0/ref/LiskovSubstitutionPrincipleGood.dll

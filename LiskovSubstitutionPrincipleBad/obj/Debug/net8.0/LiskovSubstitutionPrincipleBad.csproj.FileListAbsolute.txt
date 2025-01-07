@@ -1,0 +1,15 @@
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/bin/Debug/net8.0/LiskovSubstitutionPrincipleBad
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/bin/Debug/net8.0/LiskovSubstitutionPrincipleBad.deps.json
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/bin/Debug/net8.0/LiskovSubstitutionPrincipleBad.runtimeconfig.json
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/bin/Debug/net8.0/LiskovSubstitutionPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/bin/Debug/net8.0/LiskovSubstitutionPrincipleBad.pdb
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.sourcelink.json
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/refint/LiskovSubstitutionPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.pdb
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/LiskovSubstitutionPrincipleBad.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/SOLID/LiskovSubstitutionPrincipleBad/obj/Debug/net8.0/ref/LiskovSubstitutionPrincipleBad.dll
