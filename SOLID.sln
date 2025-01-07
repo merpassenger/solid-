@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrincipleBad", "LiskovSubstitutionPrincipleBad\LiskovSubstitutionPrincipleBad.csproj", "{D8911B2A-D706-4674-B327-694390A70C56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegragationPrincipleGood", "InterfaceSegragationPrincipleGood\InterfaceSegragationPrincipleGood.csproj", "{C7EF74A8-7D6B-4AAC-AA8C-59BA5A376B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegragationPrincipleBad", "InterfaceSegragationPrincipleBad\InterfaceSegragationPrincipleBad.csproj", "{1D7B6102-E2AF-4641-842C-C5A77E92B39D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{D8911B2A-D706-4674-B327-694390A70C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8911B2A-D706-4674-B327-694390A70C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8911B2A-D706-4674-B327-694390A70C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7EF74A8-7D6B-4AAC-AA8C-59BA5A376B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EF74A8-7D6B-4AAC-AA8C-59BA5A376B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EF74A8-7D6B-4AAC-AA8C-59BA5A376B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EF74A8-7D6B-4AAC-AA8C-59BA5A376B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
