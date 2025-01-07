@@ -1,0 +1,15 @@
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/bin/Debug/net8.0/DependencyInversionPrincipleBad
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/bin/Debug/net8.0/DependencyInversionPrincipleBad.deps.json
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/bin/Debug/net8.0/DependencyInversionPrincipleBad.runtimeconfig.json
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/bin/Debug/net8.0/DependencyInversionPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/bin/Debug/net8.0/DependencyInversionPrincipleBad.pdb
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.sourcelink.json
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/refint/DependencyInversionPrincipleBad.dll
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.pdb
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/DependencyInversionPrincipleBad.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleBad/obj/Debug/net8.0/ref/DependencyInversionPrincipleBad.dll

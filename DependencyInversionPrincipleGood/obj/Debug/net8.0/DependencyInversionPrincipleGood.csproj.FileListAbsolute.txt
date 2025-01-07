@@ -1,0 +1,15 @@
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/bin/Debug/net8.0/DependencyInversionPrincipleGood
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/bin/Debug/net8.0/DependencyInversionPrincipleGood.deps.json
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/bin/Debug/net8.0/DependencyInversionPrincipleGood.runtimeconfig.json
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/bin/Debug/net8.0/DependencyInversionPrincipleGood.dll
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/bin/Debug/net8.0/DependencyInversionPrincipleGood.pdb
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.sourcelink.json
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.dll
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/refint/DependencyInversionPrincipleGood.dll
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.pdb
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/DependencyInversionPrincipleGood.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/SOLID/DependencyInversionPrincipleGood/obj/Debug/net8.0/ref/DependencyInversionPrincipleGood.dll

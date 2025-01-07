@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegragationPrincip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegragationPrincipleBad", "InterfaceSegragationPrincipleBad\InterfaceSegragationPrincipleBad.csproj", "{1D7B6102-E2AF-4641-842C-C5A77E92B39D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrincipleGood", "DependencyInversionPrincipleGood\DependencyInversionPrincipleGood.csproj", "{522E2471-6475-4D4C-9ED9-DC61ABECB8AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrincipleBad", "DependencyInversionPrincipleBad\DependencyInversionPrincipleBad.csproj", "{2DA55B4E-384D-4FFC-B812-B500BC8C758D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D7B6102-E2AF-4641-842C-C5A77E92B39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522E2471-6475-4D4C-9ED9-DC61ABECB8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522E2471-6475-4D4C-9ED9-DC61ABECB8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522E2471-6475-4D4C-9ED9-DC61ABECB8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522E2471-6475-4D4C-9ED9-DC61ABECB8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA55B4E-384D-4FFC-B812-B500BC8C758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA55B4E-384D-4FFC-B812-B500BC8C758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA55B4E-384D-4FFC-B812-B500BC8C758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA55B4E-384D-4FFC-B812-B500BC8C758D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
